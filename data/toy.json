@@ -1,0 +1,96 @@
+[
+    {
+        "name": "PlayStation 5",
+        "price": 3000,
+        "labels": [
+            "Box game"
+        ],
+        "_id": "Ab3ke",
+        "createdAt": 1720620458785,
+        "inStock": true
+    },
+    {
+        "name": "Barbie",
+        "price": 1,
+        "labels": [
+            "Art",
+            "Baby"
+        ],
+        "_id": "hH5BU",
+        "createdAt": 1720613738553,
+        "inStock": true
+    },
+    {
+        "_id": "t101",
+        "name": "bicycle",
+        "price": 1000,
+        "labels": [
+            "Doll",
+            "On wheels",
+            "Box game",
+            "Art",
+            "Baby",
+            "Puzzle",
+            "Outdoor",
+            "Battery Powered"
+        ],
+        "createdAt": 1720546528554,
+        "inStock": true
+    },
+    {
+        "_id": "t103",
+        "name": "doll",
+        "price": 150,
+        "labels": [
+            "Doll",
+            "Box game",
+            "Baby",
+            "Puzzle",
+            "Battery Powered"
+        ],
+        "createdAt": 1720546528554,
+        "inStock": true
+    },
+    {
+        "_id": "t104",
+        "name": "cars",
+        "price": 300,
+        "labels": [
+            "Doll",
+            "On wheels",
+            "Box game",
+            "Art",
+            "Baby"
+        ],
+        "createdAt": 1720546528554,
+        "inStock": true
+    },
+    {
+        "_id": "t105",
+        "name": "ball",
+        "price": 500,
+        "labels": [
+            "Doll",
+            "On wheels",
+            "Outdoor",
+            "Battery Powered"
+        ],
+        "createdAt": 1720546528554,
+        "inStock": true
+    },
+    {
+        "_id": "t106",
+        "name": "lego",
+        "price": 70,
+        "labels": [
+            "Box game",
+            "Art",
+            "Baby",
+            "Puzzle",
+            "Outdoor",
+            "Battery Powered"
+        ],
+        "createdAt": 1720546528554,
+        "inStock": true
+    }
+]
