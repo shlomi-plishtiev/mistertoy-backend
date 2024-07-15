@@ -17,7 +17,7 @@ export const toyService = {
 async function query(filterBy = { txt: '' }) {
 	try {
 		const criteria = {
-			vendor: { $regex: filterBy.txt, $options: 'i' },
+			// vendor: { $regex: filterBy.txt, $options: 'i' },
 		}
 		const collection = await dbService.getCollection('toy')
 		var toys = await collection.find(criteria).toArray()
@@ -41,10 +41,11 @@ async function getById(toyId) {
 }
 
 async function remove(toyId) {
+	console.log(toyId);
 	try {
 		const collection = await dbService.getCollection('toy')
 		const { deletedCount } = await collection.deleteOne({ _id: ObjectId.createFromHexString(toyId) })
-        return deletedCount
+		return deletedCount
 	} catch (err) {
 		logger.error(`cannot remove toy ${toyId}`, err)
 		throw err
@@ -82,7 +83,7 @@ async function addToyMsg(toyId, msg) {
 		msg.id = utilService.makeId()
 
 		const collection = await dbService.getCollection('toy')
-		await collection.updateOne({ _id: ObjectId.createFromHexString(toyId) }, { $push: { msgs: msg }})
+		await collection.updateOne({ _id: ObjectId.createFromHexString(toyId) }, { $push: { msgs: msg } })
 		return msg
 	} catch (err) {
 		logger.error(`cannot add toy msg ${toyId}`, err)
@@ -93,7 +94,7 @@ async function addToyMsg(toyId, msg) {
 async function removeToyMsg(toyId, msgId) {
 	try {
 		const collection = await dbService.getCollection('toy')
-		await collection.updateOne({ _id: ObjectId.createFromHexString(toyId) }, { $pull: { msgs: { id: msgId }}})
+		await collection.updateOne({ _id: ObjectId.createFromHexString(toyId) }, { $pull: { msgs: { id: msgId } } })
 		return msgId
 	} catch (err) {
 		logger.error(`cannot add toy msg ${toyId}`, err)

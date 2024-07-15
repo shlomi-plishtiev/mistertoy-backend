@@ -59,3 +59,457 @@
 15.7.2024, 9:18:02 - INFO - server.js loaded... 
 15.7.2024, 9:18:02 - INFO - Server is running on port: 3030 
 15.7.2024, 9:18:28 - INFO - Req was made | / 
+15.7.2024, 10:27:06 - INFO - server.js loaded... 
+15.7.2024, 10:27:06 - INFO - Server is running on port: 3030 
+15.7.2024, 10:27:18 - INFO - Req was made | / 
+15.7.2024, 10:31:44 - INFO - Req was made | / 
+15.7.2024, 10:32:02 - INFO - Req was made | / 
+15.7.2024, 10:32:04 - INFO - Req was made | / 
+15.7.2024, 10:55:27 - INFO - server.js loaded... 
+15.7.2024, 10:55:27 - INFO - Server is running on port: 3030 
+15.7.2024, 10:55:32 - INFO - Req was made | / 
+15.7.2024, 10:56:31 - INFO - server.js loaded... 
+15.7.2024, 10:56:31 - INFO - Server is running on port: 3030 
+15.7.2024, 12:12:00 - INFO - Req was made | / 
+15.7.2024, 12:12:11 - INFO - Req was made | / 
+15.7.2024, 12:49:24 - INFO - Req was made | / 
+15.7.2024, 12:49:36 - INFO - Req was made | / 
+15.7.2024, 12:49:39 - INFO - Req was made | / 
+15.7.2024, 12:49:43 - INFO - Req was made | / 
+15.7.2024, 13:00:36 - INFO - server.js loaded... 
+15.7.2024, 13:00:36 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 13:00:46 - INFO - Req was made | / 
+15.7.2024, 13:02:58 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 13:03:00 - INFO - Req was made | / 
+15.7.2024, 13:03:02 - INFO - Req was made | / 
+15.7.2024, 13:03:23 - INFO - Req was made | / 
+15.7.2024, 13:03:30 - INFO - Req was made | / 
+15.7.2024, 13:04:42 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 13:04:47 - INFO - Req was made | / 
+15.7.2024, 13:04:48 - INFO - Req was made | / 
+15.7.2024, 13:04:56 - INFO - Req was made | / 
+15.7.2024, 13:05:36 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 13:52:13 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 13:55:00 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 14:28:31 - INFO - Req was made | / 
+15.7.2024, 14:28:39 - INFO - Req was made | / 
+15.7.2024, 14:29:33 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 14:29:38 - INFO - Req was made | / 
+15.7.2024, 14:30:17 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 14:30:19 - INFO - Req was made | / 
+15.7.2024, 14:30:51 - INFO - Req was made | / 
+15.7.2024, 14:30:58 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 14:31:00 - INFO - Req was made | / 
+15.7.2024, 14:31:45 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 14:31:45 - INFO - Req was made | / 
+15.7.2024, 14:31:54 - INFO - Req was made | / 
+15.7.2024, 14:33:03 - INFO - Req was made | / 
+15.7.2024, 14:33:25 - INFO - Req was made | / 
+15.7.2024, 14:34:01 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 14:34:02 - INFO - Req was made | / 
+15.7.2024, 14:34:59 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 14:35:01 - INFO - Req was made | / 
+15.7.2024, 14:36:13 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 14:36:15 - INFO - Req was made | / 
+15.7.2024, 14:36:19 - INFO - Req was made | / 
+15.7.2024, 14:36:34 - INFO - Req was made | / 
+15.7.2024, 14:42:10 - INFO - Req was made | / 
+15.7.2024, 14:42:21 - INFO - Req was made | / 
+15.7.2024, 14:43:22 - INFO - Req was made | / 
+15.7.2024, 14:43:29 - INFO - Req was made | / 
+15.7.2024, 14:43:53 - INFO - Req was made | / 
+15.7.2024, 14:43:56 - INFO - Req was made | / 
+15.7.2024, 14:43:58 - INFO - Req was made | / 
+15.7.2024, 14:44:17 - INFO - Req was made | / 
+15.7.2024, 14:44:24 - INFO - Req was made | / 
+15.7.2024, 14:44:31 - INFO - Req was made | / 
+15.7.2024, 14:44:33 - INFO - Req was made | / 
+15.7.2024, 14:44:35 - INFO - Req was made | / 
+15.7.2024, 14:44:42 - INFO - Req was made | / 
+15.7.2024, 14:44:44 - INFO - Req was made | / 
+15.7.2024, 14:44:57 - INFO - Req was made | / 
+15.7.2024, 14:44:59 - INFO - Req was made | / 
+15.7.2024, 14:45:03 - INFO - Req was made | / 
+15.7.2024, 14:46:14 - INFO - Req was made | / 
+15.7.2024, 14:47:56 - INFO - Req was made | / 
+15.7.2024, 14:47:58 - INFO - Req was made | / 
+15.7.2024, 14:48:03 - INFO - Req was made | / 
+15.7.2024, 14:48:21 - INFO - Req was made | / 
+15.7.2024, 14:49:40 - INFO - Req was made | / 
+15.7.2024, 14:50:32 - INFO - Req was made | / 
+15.7.2024, 14:50:36 - INFO - Req was made | / 
+15.7.2024, 14:51:58 - INFO - Req was made | / 
+15.7.2024, 14:51:59 - INFO - Req was made | / 
+15.7.2024, 14:55:45 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 14:55:47 - INFO - Req was made | / 
+15.7.2024, 14:56:01 - INFO - Req was made | / 
+15.7.2024, 14:56:12 - INFO - Req was made | / 
+15.7.2024, 14:58:26 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 14:58:30 - INFO - Req was made | / 
+15.7.2024, 14:58:43 - INFO - Req was made | / 
+15.7.2024, 15:00:44 - INFO - Req was made | / 
+15.7.2024, 15:01:01 - INFO - Req was made | / 
+15.7.2024, 15:01:23 - INFO - Req was made | / 
+15.7.2024, 15:03:45 - INFO - Req was made | / 
+15.7.2024, 15:04:35 - INFO - Req was made | / 
+15.7.2024, 15:07:55 - INFO - Req was made | / 
+15.7.2024, 15:08:10 - INFO - Req was made | / 
+15.7.2024, 15:08:13 - DEBUG - auth.service - signup with username: shlomi, fullname: shlomi 
+15.7.2024, 15:08:14 - ERROR - Failed to signup:  | Error: Username taken 
+15.7.2024, 15:08:14 - ERROR - cannot insert user | Error: Username taken 
+15.7.2024, 15:08:18 - DEBUG - auth.service - signup with username: shlomi, fullname: shlomi 
+15.7.2024, 15:08:18 - ERROR - cannot insert user | Error: Username taken 
+15.7.2024, 15:08:18 - ERROR - Failed to signup:  | Error: Username taken 
+15.7.2024, 15:08:28 - INFO - Req was made | / 
+15.7.2024, 15:08:37 - INFO - Req was made | / 
+15.7.2024, 15:08:45 - DEBUG - auth.service - signup with username: shlomi, fullname: shlomi 
+15.7.2024, 15:08:45 - ERROR - cannot insert user | Error: Username taken 
+15.7.2024, 15:08:45 - ERROR - Failed to signup:  | Error: Username taken 
+15.7.2024, 15:09:22 - DEBUG - auth.service - signup with username: shlomi1, fullname: shlomi 
+15.7.2024, 15:09:22 - DEBUG - New account created: {"username":"shlomi1","password":"$2b$10$dpfSkLhP2Cl9YN36WGkPD.I1Y8ov5IPmEVzogpZIC3O6YqDp5MVY.","fullname":"shlomi","score":0,"_id":"669511720ed58eb639375932"} 
+15.7.2024, 15:09:22 - DEBUG - auth.service - login with username: shlomi1 
+15.7.2024, 15:11:32 - DEBUG - auth.service - signup with username: shlomi1, fullname: shlomi 
+15.7.2024, 15:11:32 - ERROR - cannot insert user | Error: Username taken 
+15.7.2024, 15:11:32 - ERROR - Failed to signup:  | Error: Username taken 
+15.7.2024, 15:12:41 - INFO - Req was made | / 
+15.7.2024, 15:14:37 - INFO - Req was made | / 
+15.7.2024, 15:15:55 - INFO - Req was made | / 
+15.7.2024, 15:15:59 - INFO - Req was made | / 
+15.7.2024, 15:17:37 - INFO - Req was made | / 
+15.7.2024, 15:17:42 - INFO - Req was made | / 
+15.7.2024, 15:19:57 - INFO - Req was made | / 
+15.7.2024, 15:20:36 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 15:20:39 - INFO - Req was made | / 
+15.7.2024, 15:22:10 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 15:23:14 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 15:24:27 - INFO - Req was made | / 
+15.7.2024, 15:25:04 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 15:26:27 - INFO - Req was made | / 
+15.7.2024, 15:26:34 - INFO - Req was made | / 
+15.7.2024, 15:26:40 - DEBUG - auth.service - signup with username: sds444477, fullname: shlomi 
+15.7.2024, 15:26:40 - DEBUG - New account created: {"username":"sds444477","password":"$2b$10$UhzqesoYv9aZk6DQD7.E2.uxfgQOCgJ.NvCmivd.Ih9Nw50jhQzBq","fullname":"shlomi","score":0,"_id":"66951580030b6fd32833e93e"} 
+15.7.2024, 15:26:40 - DEBUG - auth.service - login with username: sds444477 
+15.7.2024, 15:27:57 - INFO - Req was made | / 
+15.7.2024, 15:27:58 - INFO - Req was made | / 
+15.7.2024, 15:28:05 - DEBUG - auth.service - signup with username: sds4444778, fullname: shlomi 
+15.7.2024, 15:28:05 - DEBUG - auth.service - login with username: sds4444778 
+15.7.2024, 15:28:05 - DEBUG - New account created: {"username":"sds4444778","password":"$2b$10$ab/fgJFPbVw9aAP2rtODKeXyNOUqq3ok7InViVlIatdFypzwmnS66","fullname":"shlomi","score":0,"_id":"669515d5030b6fd32833e93f"} 
+15.7.2024, 15:31:31 - INFO - Req was made | / 
+15.7.2024, 15:31:47 - DEBUG - auth.service - signup with username: shlomi777, fullname: shlomi 
+15.7.2024, 15:31:47 - DEBUG - New account created: {"username":"shlomi777","password":"$2b$10$LrlweyNpv9q5Yh0oxaKmPOVcIuuyS1qKJ.58IT65Jqb1rwiNMUR6S","fullname":"shlomi","score":0,"_id":"669516b3030b6fd32833e940"} 
+15.7.2024, 15:31:47 - DEBUG - auth.service - login with username: shlomi777 
+15.7.2024, 15:31:52 - DEBUG - auth.service - login with username: shlomi777 
+15.7.2024, 15:31:52 - INFO - User login successful:  | {"_id":"669516b3030b6fd32833e940","username":"shlomi777","fullname":"shlomi","score":0} 
+15.7.2024, 15:32:51 - DEBUG - auth.service - login with username: shlomi777 
+15.7.2024, 15:32:51 - INFO - User login successful:  | {"_id":"669516b3030b6fd32833e940","username":"shlomi777","fullname":"shlomi","score":0} 
+15.7.2024, 15:32:55 - DEBUG - auth.service - login with username: shlomi777 
+15.7.2024, 15:32:55 - INFO - User login successful:  | {"_id":"669516b3030b6fd32833e940","username":"shlomi777","fullname":"shlomi","score":0} 
+15.7.2024, 15:33:11 - DEBUG - auth.service - signup with username: shlomi7778, fullname: shlomi 
+15.7.2024, 15:33:11 - DEBUG - New account created: {"username":"shlomi7778","password":"$2b$10$9rpVCPe7YWeIGaZlWJc9mehK5k2KSPLzxNM/rVDFFA5/Wtrjizr/.","fullname":"shlomi","score":0,"_id":"66951707030b6fd32833e941"} 
+15.7.2024, 15:33:11 - DEBUG - auth.service - login with username: shlomi7778 
+15.7.2024, 15:33:17 - DEBUG - auth.service - login with username: shlomi7778 
+15.7.2024, 15:33:17 - INFO - User login successful:  | {"_id":"66951707030b6fd32833e941","username":"shlomi7778","fullname":"shlomi","score":0} 
+15.7.2024, 15:37:01 - INFO - Req was made | / 
+15.7.2024, 15:37:14 - INFO - Req was made | / 
+15.7.2024, 15:38:22 - INFO - Req was made | / 
+15.7.2024, 15:38:25 - INFO - Req was made | / 
+15.7.2024, 15:40:50 - DEBUG - auth.service - signup with username: shlomi, fullname: shlomi 
+15.7.2024, 15:40:50 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 15:40:50 - DEBUG - New account created: {"username":"shlomi","password":"$2b$10$5kP5MOFp1qdjathac8BpxOYdqOBEKS.WuxvZkaqYw7hoijhKOtuU.","fullname":"shlomi","score":0,"_id":"669518d2030b6fd32833e942"} 
+15.7.2024, 15:41:31 - DEBUG - auth.service - signup with username: bracha, fullname: bracha 
+15.7.2024, 15:41:31 - DEBUG - New account created: {"username":"bracha","password":"$2b$10$P6rn8hnCjsTSeDG12USpxepXKPVGaAnHJQxH9lGhAhA58HiZPyG2K","fullname":"bracha","score":0,"_id":"669518fb030b6fd32833e943"} 
+15.7.2024, 15:41:31 - DEBUG - auth.service - login with username: bracha 
+15.7.2024, 15:41:37 - INFO - Req was made | / 
+15.7.2024, 15:41:41 - INFO - Req was made | / 
+15.7.2024, 15:42:27 - INFO - Req was made | / 
+15.7.2024, 15:42:44 - INFO - Req was made | / 
+15.7.2024, 15:42:44 - INFO - Req was made | / 
+15.7.2024, 15:43:09 - INFO - Req was made | / 
+15.7.2024, 15:44:03 - INFO - Req was made | / 
+15.7.2024, 15:46:47 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 15:48:10 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 15:48:21 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 15:48:46 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 15:51:35 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 15:51:35 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0} 
+15.7.2024, 15:51:45 - INFO - Req was made | / 
+15.7.2024, 15:51:52 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 15:51:52 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0} 
+15.7.2024, 15:52:52 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 15:52:53 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0} 
+15.7.2024, 15:53:56 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 15:53:56 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0} 
+15.7.2024, 15:54:28 - INFO - Req was made | / 
+15.7.2024, 15:54:38 - INFO - Req was made | / 
+15.7.2024, 15:54:59 - INFO - Req was made | / 
+15.7.2024, 15:55:06 - INFO - Req was made | / 
+15.7.2024, 15:55:13 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 15:55:13 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0} 
+15.7.2024, 15:55:44 - INFO - Req was made | / 
+15.7.2024, 15:55:50 - INFO - Req was made | / 
+15.7.2024, 15:55:55 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 15:55:55 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0} 
+15.7.2024, 15:55:59 - INFO - Req was made | / 
+15.7.2024, 15:57:57 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 15:57:59 - INFO - Req was made | / 
+15.7.2024, 15:58:06 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 15:58:06 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0} 
+15.7.2024, 15:59:36 - INFO - Req was made | / 
+15.7.2024, 16:00:46 - INFO - Req was made | / 
+15.7.2024, 16:00:56 - INFO - Req was made | / 
+15.7.2024, 16:01:17 - INFO - Req was made | / 
+15.7.2024, 16:01:19 - INFO - Req was made | / 
+15.7.2024, 16:01:22 - INFO - Req was made | / 
+15.7.2024, 16:01:29 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 16:01:29 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0} 
+15.7.2024, 16:01:46 - INFO - Req was made | / 
+15.7.2024, 16:01:55 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 16:01:55 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0} 
+15.7.2024, 16:02:05 - INFO - Req was made | / 
+15.7.2024, 16:02:11 - INFO - Req was made | / 
+15.7.2024, 16:02:12 - INFO - Req was made | / 
+15.7.2024, 16:02:32 - DEBUG - auth.service - signup with username: yosef, fullname: yosef 
+15.7.2024, 16:02:32 - DEBUG - New account created: {"username":"yosef","password":"$2b$10$LVcFFnbGAY7qF658kLfjcOduDQxROoOJiWptUxGSUpV6FIabc46z2","fullname":"yosef","score":0,"_id":"66951de8bfc8ecf597a96a97"} 
+15.7.2024, 16:02:32 - DEBUG - auth.service - login with username: yosef 
+15.7.2024, 16:02:47 - INFO - Req was made | / 
+15.7.2024, 16:02:56 - DEBUG - auth.service - login with username: yosef 
+15.7.2024, 16:02:56 - INFO - User login successful:  | {"_id":"66951de8bfc8ecf597a96a97","username":"yosef","fullname":"yosef","score":0} 
+15.7.2024, 16:07:08 - INFO - Req was made | / 
+15.7.2024, 16:09:00 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 16:09:02 - DEBUG - auth.service - login with username: yosef 
+15.7.2024, 16:09:02 - INFO - User login successful:  | {"_id":"66951de8bfc8ecf597a96a97","username":"yosef","fullname":"yosef","score":0} 
+15.7.2024, 16:09:21 - DEBUG - auth.service - login with username: yosef 
+15.7.2024, 16:09:21 - INFO - User login successful:  | {"_id":"66951de8bfc8ecf597a96a97","username":"yosef","fullname":"yosef","score":0} 
+15.7.2024, 16:09:50 - INFO - Req was made | / 
+15.7.2024, 16:10:02 - INFO - Req was made | / 
+15.7.2024, 16:16:48 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 16:16:48 - INFO - Req was made | / 
+15.7.2024, 16:16:54 - INFO - Req was made | / 
+15.7.2024, 16:17:03 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 16:17:03 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0} 
+15.7.2024, 16:17:52 - INFO - Req was made | / 
+15.7.2024, 16:19:38 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 16:19:42 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 16:19:43 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0} 
+15.7.2024, 16:19:47 - INFO - Req was made | / 
+15.7.2024, 16:19:55 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 16:19:55 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0} 
+15.7.2024, 16:32:29 - INFO - Req was made | / 
+15.7.2024, 16:37:15 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 16:37:15 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0} 
+15.7.2024, 16:39:12 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 16:39:12 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0} 
+15.7.2024, 16:39:17 - INFO - Req was made | / 
+15.7.2024, 16:39:34 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 16:39:34 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0} 
+15.7.2024, 16:39:57 - INFO - Req was made | / 
+15.7.2024, 16:41:11 - INFO - Req was made | / 
+15.7.2024, 16:41:15 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 16:41:16 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0} 
+15.7.2024, 16:45:30 - INFO - Req was made | / 
+15.7.2024, 16:46:11 - INFO - Req was made | / 
+15.7.2024, 16:46:17 - INFO - Req was made | / 
+15.7.2024, 16:53:17 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 16:53:17 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0} 
+15.7.2024, 16:53:28 - INFO - Req was made | / 
+15.7.2024, 16:53:37 - INFO - Req was made | / 
+15.7.2024, 17:09:15 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 17:12:47 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 17:16:00 - INFO - Req was made | / 
+15.7.2024, 17:16:15 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 17:16:15 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0} 
+15.7.2024, 17:16:17 - WARN - shlomiattempted to perform admin action 
+15.7.2024, 17:17:08 - WARN - shlomiattempted to perform admin action 
+15.7.2024, 17:17:20 - WARN - shlomiattempted to perform admin action 
+15.7.2024, 17:23:03 - INFO - Req was made | / 
+15.7.2024, 17:26:32 - WARN - shlomiattempted to perform admin action 
+15.7.2024, 17:27:02 - INFO - Req was made | / 
+15.7.2024, 17:32:54 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 17:33:06 - WARN - shlomiattempted to perform admin action 
+15.7.2024, 17:33:43 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 17:34:10 - WARN - shlomiattempted to perform admin action 
+15.7.2024, 17:39:42 - WARN - shlomiattempted to perform admin action 
+15.7.2024, 17:43:52 - WARN - shlomiattempted to perform admin action 
+15.7.2024, 17:45:35 - WARN - shlomiattempted to perform admin action 
+15.7.2024, 17:47:54 - ERROR - cannot add toy msg undefined | BSONError: hex string must be 24 characters 
+15.7.2024, 17:47:54 - ERROR - Failed to remove toy message | BSONError: hex string must be 24 characters 
+15.7.2024, 17:48:22 - ERROR - Failed to remove toy message | BSONError: hex string must be 24 characters 
+15.7.2024, 17:48:22 - ERROR - cannot add toy msg undefined | BSONError: hex string must be 24 characters 
+15.7.2024, 17:49:15 - ERROR - cannot add toy msg undefined | BSONError: hex string must be 24 characters 
+15.7.2024, 17:49:15 - ERROR - Failed to remove toy message | BSONError: hex string must be 24 characters 
+15.7.2024, 17:49:27 - ERROR - cannot add toy msg undefined | BSONError: hex string must be 24 characters 
+15.7.2024, 17:49:27 - ERROR - Failed to remove toy message | BSONError: hex string must be 24 characters 
+15.7.2024, 17:51:56 - ERROR - cannot add toy msg undefined | BSONError: hex string must be 24 characters 
+15.7.2024, 17:51:56 - ERROR - Failed to remove toy message | BSONError: hex string must be 24 characters 
+15.7.2024, 17:52:03 - ERROR - Failed to remove toy message | BSONError: hex string must be 24 characters 
+15.7.2024, 17:52:03 - ERROR - cannot add toy msg undefined | BSONError: hex string must be 24 characters 
+15.7.2024, 17:52:07 - INFO - Req was made | / 
+15.7.2024, 17:52:13 - INFO - Req was made | / 
+15.7.2024, 17:52:15 - INFO - Req was made | / 
+15.7.2024, 17:52:23 - ERROR - Failed to remove toy message | BSONError: hex string must be 24 characters 
+15.7.2024, 17:52:23 - ERROR - cannot add toy msg undefined | BSONError: hex string must be 24 characters 
+15.7.2024, 17:54:23 - ERROR - cannot add toy msg undefined | BSONError: hex string must be 24 characters 
+15.7.2024, 17:54:23 - ERROR - Failed to remove toy message | BSONError: hex string must be 24 characters 
+15.7.2024, 17:54:33 - ERROR - Failed to remove toy message | BSONError: hex string must be 24 characters 
+15.7.2024, 17:54:33 - ERROR - cannot add toy msg undefined | BSONError: hex string must be 24 characters 
+15.7.2024, 17:54:39 - ERROR - cannot add toy msg undefined | BSONError: hex string must be 24 characters 
+15.7.2024, 17:54:39 - ERROR - Failed to remove toy message | BSONError: hex string must be 24 characters 
+15.7.2024, 17:57:09 - INFO - Req was made | / 
+15.7.2024, 17:57:12 - INFO - Req was made | / 
+15.7.2024, 17:57:23 - INFO - Req was made | / 
+15.7.2024, 17:57:23 - WARN - shlomiattempted to perform admin action 
+15.7.2024, 17:59:11 - WARN - shlomiattempted to perform admin action 
+15.7.2024, 17:59:11 - INFO - Req was made | / 
+15.7.2024, 18:01:20 - INFO - Req was made | / 
+15.7.2024, 18:01:32 - INFO - Req was made | / 
+15.7.2024, 18:01:49 - INFO - Req was made | / 
+15.7.2024, 18:02:02 - WARN - shlomiattempted to perform admin action 
+15.7.2024, 18:02:35 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 18:02:39 - INFO - Req was made | / 
+15.7.2024, 18:02:51 - INFO - Req was made | / 
+15.7.2024, 18:02:51 - INFO - Req was made | / 
+15.7.2024, 18:02:56 - INFO - Req was made | / 
+15.7.2024, 18:03:05 - ERROR - cannot add toy msg undefined | BSONError: hex string must be 24 characters 
+15.7.2024, 18:03:05 - ERROR - Failed to remove toy message | BSONError: hex string must be 24 characters 
+15.7.2024, 18:04:57 - ERROR - cannot add toy msg undefined | BSONError: hex string must be 24 characters 
+15.7.2024, 18:04:57 - ERROR - Failed to remove toy message | BSONError: hex string must be 24 characters 
+15.7.2024, 18:05:06 - INFO - Req was made | / 
+15.7.2024, 18:05:11 - INFO - Req was made | / 
+15.7.2024, 18:33:06 - INFO - Req was made | / 
+15.7.2024, 18:36:09 - ERROR - Failed to remove toy message | BSONError: hex string must be 24 characters 
+15.7.2024, 18:36:09 - ERROR - cannot add toy msg undefined | BSONError: hex string must be 24 characters 
+15.7.2024, 18:39:28 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 18:39:57 - INFO - Req was made | / 
+15.7.2024, 18:41:23 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 18:45:37 - INFO - Req was made | / 
+15.7.2024, 18:47:58 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 18:48:00 - INFO - Req was made | / 
+15.7.2024, 18:48:12 - WARN - shlomiattempted to perform admin action 
+15.7.2024, 18:48:58 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 18:51:33 - DEBUG - auth.service - login with username: yosef 
+15.7.2024, 18:51:33 - INFO - User login successful:  | {"_id":"66951de8bfc8ecf597a96a97","username":"yosef","fullname":"yosef","score":0} 
+15.7.2024, 19:05:19 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 19:05:33 - INFO - Req was made | / 
+15.7.2024, 19:05:42 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 19:05:42 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0,"isAdmin":true} 
+15.7.2024, 19:06:00 - INFO - Req was made | / 
+15.7.2024, 19:06:07 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 19:06:09 - INFO - Req was made | / 
+15.7.2024, 19:06:15 - INFO - Req was made | / 
+15.7.2024, 19:06:21 - DEBUG - auth.service - login with username: bracha 
+15.7.2024, 19:06:21 - INFO - User login successful:  | {"_id":"669518fb030b6fd32833e943","username":"bracha","fullname":"bracha","score":0} 
+15.7.2024, 19:06:26 - INFO - Req was made | / 
+15.7.2024, 19:06:31 - WARN - bracha attempted to perform admin action 
+15.7.2024, 19:06:40 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 19:06:40 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0,"isAdmin":true} 
+15.7.2024, 19:06:42 - INFO - Req was made | / 
+15.7.2024, 19:06:45 - INFO - Req was made | / 
+15.7.2024, 19:11:58 - INFO - Req was made | / 
+15.7.2024, 19:15:03 - INFO - Req was made | / 
+15.7.2024, 19:15:20 - INFO - Req was made | / 
+15.7.2024, 19:17:07 - INFO - Req was made | / 
+15.7.2024, 19:17:20 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 19:17:20 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0,"isAdmin":true} 
+15.7.2024, 19:17:26 - INFO - Req was made | / 
+15.7.2024, 19:21:14 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 19:21:43 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 19:24:01 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 19:24:05 - INFO - Req was made | / 
+15.7.2024, 19:24:05 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 19:28:44 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 19:28:44 - INFO - Req was made | / 
+15.7.2024, 19:28:47 - INFO - Req was made | / 
+15.7.2024, 19:28:47 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 19:28:55 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 19:28:55 - INFO - Req was made | / 
+15.7.2024, 19:29:08 - INFO - Req was made | / 
+15.7.2024, 19:29:08 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 19:29:17 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 19:29:17 - INFO - Req was made | / 
+15.7.2024, 19:30:02 - INFO - Req was made | / 
+15.7.2024, 19:30:02 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 19:30:08 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 19:30:08 - INFO - Req was made | / 
+15.7.2024, 20:34:52 - INFO - Req was made | / 
+15.7.2024, 20:34:52 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 20:35:01 - INFO - Req was made | / 
+15.7.2024, 20:35:01 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 20:35:16 - INFO - Req was made | / 
+15.7.2024, 20:35:16 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 20:35:16 - INFO - Req was made | / 
+15.7.2024, 20:40:05 - INFO - Req was made | / 
+15.7.2024, 20:40:05 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 20:40:57 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 20:40:57 - INFO - Req was made | / 
+15.7.2024, 20:42:37 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 20:42:37 - INFO - Req was made | / 
+15.7.2024, 20:55:53 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 20:55:53 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0,"isAdmin":true} 
+15.7.2024, 20:57:56 - INFO - Req was made | / 
+15.7.2024, 20:57:56 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 20:58:22 - DEBUG - auth.service - login with username: bracha 
+15.7.2024, 20:58:22 - ERROR - Failed to login: Invalid username or password 
+15.7.2024, 20:58:22 - ERROR - Failed to login:  | Error: Invalid username or password 
+15.7.2024, 20:58:32 - DEBUG - auth.service - signup with username: bracha, fullname: bracha 
+15.7.2024, 20:58:32 - DEBUG - New account created: {"username":"bracha","password":"$2b$10$ntOczv4mm5AnxhCgUQaGEe861nObyvkggOmkC9nvoa9tvx59vbGOO","fullname":"bracha","score":100,"isAdmin":false,"_id":"66956348fa96c8b9beaff98f"} 
+15.7.2024, 20:58:32 - DEBUG - auth.service - login with username: bracha 
+15.7.2024, 20:58:36 - INFO - Req was made | / 
+15.7.2024, 20:58:36 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 21:01:18 - INFO - Req was made | / 
+15.7.2024, 21:01:18 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 21:02:50 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 21:02:50 - INFO - Req was made | / 
+15.7.2024, 21:03:42 - INFO - Req was made | / 
+15.7.2024, 21:03:42 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 21:08:11 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 21:08:12 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0,"isAdmin":true} 
+15.7.2024, 21:08:14 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 21:08:14 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0,"isAdmin":true} 
+15.7.2024, 21:08:41 - INFO - Req was made | / 
+15.7.2024, 21:08:41 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 21:11:11 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 21:11:11 - INFO - Req was made | / 
+15.7.2024, 21:11:13 - INFO - Req was made | / 
+15.7.2024, 21:11:13 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 21:12:48 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 21:12:48 - INFO - Req was made | / 
+15.7.2024, 21:18:59 - INFO - Req was made | / 
+15.7.2024, 21:18:59 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 21:25:10 - INFO - Req was made | / 
+15.7.2024, 21:25:10 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 21:25:20 - INFO - Req was made | / 
+15.7.2024, 21:25:26 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 21:25:26 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0,"isAdmin":true} 
+15.7.2024, 21:25:27 - INFO - Req was made | / 
+15.7.2024, 21:25:28 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 21:25:28 - INFO - Req was made | / 
+15.7.2024, 21:27:13 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 21:27:13 - INFO - Req was made | / 
+15.7.2024, 21:27:53 - INFO - Req was made | / 
+15.7.2024, 21:27:53 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 21:28:00 - INFO - Req was made | / 
+15.7.2024, 21:28:00 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 21:28:40 - INFO - Req was made | / 
+15.7.2024, 21:28:40 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 21:28:45 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 21:28:45 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0,"isAdmin":true} 
+15.7.2024, 21:28:51 - INFO - Req was made | / 
+15.7.2024, 21:28:51 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 21:29:21 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 21:29:22 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0,"isAdmin":true} 
+15.7.2024, 21:36:42 - INFO - Req was made | / 
+15.7.2024, 21:36:42 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 21:36:43 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 21:36:43 - INFO - Req was made | / 
+15.7.2024, 21:37:45 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 21:37:45 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0,"isAdmin":true} 
+15.7.2024, 21:41:26 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 21:41:27 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0,"isAdmin":true} 
+15.7.2024, 21:41:47 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 21:41:47 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0,"isAdmin":true} 
+15.7.2024, 21:44:42 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 21:44:43 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0,"isAdmin":true} 
+15.7.2024, 21:44:49 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 21:44:50 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0,"isAdmin":true} 
+15.7.2024, 21:45:05 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 21:45:06 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0,"isAdmin":true} 
