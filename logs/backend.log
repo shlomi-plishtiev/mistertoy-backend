@@ -513,3 +513,15 @@
 15.7.2024, 21:44:50 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0,"isAdmin":true} 
 15.7.2024, 21:45:05 - DEBUG - auth.service - login with username: shlomi 
 15.7.2024, 21:45:06 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0,"isAdmin":true} 
+15.7.2024, 21:49:00 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 21:49:31 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 21:49:41 - INFO - Server listening on port http://127.0.0.1:3030/ 
+15.7.2024, 21:49:42 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 21:49:42 - INFO - Req was made | / 
+15.7.2024, 21:49:48 - DEBUG - auth.service - login with username: shlomi 
+15.7.2024, 21:49:49 - INFO - User login successful:  | {"_id":"669518d2030b6fd32833e942","username":"shlomi","fullname":"shlomi","score":0,"isAdmin":true} 
+15.7.2024, 21:49:50 - INFO - Req was made | / 
+15.7.2024, 21:49:50 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 21:49:59 - INFO - Req was made | / 
+15.7.2024, 21:49:59 - DEBUG - Getting Toys with filterBy as: | {"txt":"","status":null,"labels":null} 
+15.7.2024, 21:49:59 - INFO - Req was made | / 
