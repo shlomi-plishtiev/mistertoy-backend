@@ -61,18 +61,28 @@ function remove(toyId) {
   return _saveToysToFile()
 }
 
-function save(toy) {
-  if (toy._id) {
-    const idx = toys.findIndex(currToy => currToy._id === toy._id)
-    toys[idx] = { ...toys[idx], ...toy }
-  } else {
-    toy._id = _makeId()
-    toy.createdAt = Date.now()
-    toy.inStock = true
-    toys.unshift(toy)
+async function save(toy) {
+  try {
+    if (toy._id) {
+      const idx = toys.findIndex(currToy => currToy._id === toy._id)
+      if (idx < 0) {
+        throw new Error(`Toy with ID ${toy._id} not found`)
+      }
+      toys[idx] = { ...toys[idx], ...toy }
+    } else {
+      toy._id = _makeId()
+      toy.createdAt = Date.now()
+      toy.inStock = true
+      toys.unshift(toy)
+    }
+    await _saveToysToFile()
+    return toy
+  } catch (error) {
+    console.error('Error saving toy:', error)
+    throw error
   }
-  return _saveToysToFile().then(() => toy)
 }
+
 
 function _makeId(length = 5) {
   let text = ''

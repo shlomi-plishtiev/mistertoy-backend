@@ -4,17 +4,20 @@ import express from 'express'
 import cors from 'cors'
 import cookieParser from 'cookie-parser'
 
-import { loggerService } from './services/logger.service.js'
-import { toyService } from './services/toy.service.js'
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = dirname(__filename)
+
+import { logger } from './services/logger.service.js'
+logger.info('server.js loaded...')
 
 const app = express()
 
 // App Configuration
-app.use(cookieParser()) // for res.cookies
-app.use(express.json()) // for req.body
+app.use(cookieParser()) 
+app.use(express.json()) 
 
 if (process.env.NODE_ENV === 'production') {
-  app.use(express.static('public'))
+  // app.use(express.static('public'))
 } else {
   const corsOptions = {
     origin: [
@@ -28,86 +31,23 @@ if (process.env.NODE_ENV === 'production') {
   app.use(cors(corsOptions))
 }
 
-// **************** Toys API ****************:
-// GET toys
-app.get('/api/toy', (req, res) => {
-  const { filterBy = {}, sortBy = {}, pageIdx } = req.query
-  toyService.query(filterBy, sortBy, pageIdx)
-    .then(toys => {
-      res.send(toys)
-    })
-    .catch(err => {
-      loggerService.error('Cannot load toys', err)
-      res.status(400).send('Cannot load toys')
-    })
-})
+import { authRoutes } from './api/auth/auth.routes.js'
+import { userRoutes } from './api/user/user.routes.js'
+import { toyRoutes } from './api/toy/toy.routes.js'
 
-app.get('/api/toy/:toyId', (req, res) => {
-  const { toyId } = req.params
-  toyService.get(toyId)
-    .then(toy => {
-      res.send(toy)
-    })
-    .catch(err => {
-      loggerService.error('Cannot get toy', err)
-      res.status(400).send(err)
-    })
-})
+// routes
+app.use('/api/auth', authRoutes)
+app.use('/api/user', userRoutes)
+app.use('/api/toy', toyRoutes)
 
-app.post('/api/toy', (req, res) => {
-  const { name, price, labels } = req.body
-  const toy = {
-    name,
-    price: +price,
-    labels,
-  }
-  toyService.save(toy)
-    .then(savedToy => {
-      res.send(savedToy)
-    })
-    .catch(err => {
-      loggerService.error('Cannot add toy', err)
-      res.status(400).send('Cannot add toy')
-    })
-})
-
-app.put('/api/toy', (req, res) => {
-  const { name, price, _id, labels } = req.body
-  const toy = {
-    _id,
-    name,
-    price: +price,
-    labels,
-  }
-  toyService.save(toy)
-    .then(savedToy => {
-      res.send(savedToy)
-    })
-    .catch(err => {
-      loggerService.error('Cannot update toy', err)
-      res.status(400).send('Cannot update toy')
-    })
-})
-
-app.delete('/api/toy/:toyId', (req, res) => {
-  const { toyId } = req.params
-  toyService.remove(toyId)
-    .then(msg => {
-      res.send({ msg, toyId })
-    })
-    .catch(err => {
-      loggerService.error('Cannot delete toy', err)
-      res.status(400).send('Cannot delete toy, ' + err)
-    })
-})
 
 // Fallback
 app.get('/**', (req, res) => {
-  res.sendFile(path.resolve('public/index.html'))
+  res.sendFile(path.resolve(''))
 })
 
-// Listen will always be the last line in our server!
-const port = 3030
+const port = process.env.PORT || 3030
+
 app.listen(port, () => {
-  loggerService.info(`Server listening on port http://127.0.0.1:${port}/`)
+  logger.info('Server is running on port: ' + port)
 })
